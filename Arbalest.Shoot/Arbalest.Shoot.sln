@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arbalest.Shoot", "Arbalest.Shoot\Arbalest.Shoot.csproj", "{2C53ADB6-A4DA-448B-B762-29AF4BBBACC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locust.Dal.Interfaces", "Locust.Dal.Interfaces\Locust.Dal.Interfaces.csproj", "{A0389CD4-AD45-4FCA-80E4-B6F2A1D6E9CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C53ADB6-A4DA-448B-B762-29AF4BBBACC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C53ADB6-A4DA-448B-B762-29AF4BBBACC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C53ADB6-A4DA-448B-B762-29AF4BBBACC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C53ADB6-A4DA-448B-B762-29AF4BBBACC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0389CD4-AD45-4FCA-80E4-B6F2A1D6E9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0389CD4-AD45-4FCA-80E4-B6F2A1D6E9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0389CD4-AD45-4FCA-80E4-B6F2A1D6E9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0389CD4-AD45-4FCA-80E4-B6F2A1D6E9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E154EB1-4D40-46EE-A1B8-2FADA9B8E86C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\bzap\source\repos\Arbalest.Shoot\Locust.Dal.Interfaces\bin\Debug\Locust.Dal.Interfaces.dll
+C:\Users\bzap\source\repos\Arbalest.Shoot\Locust.Dal.Interfaces\bin\Debug\Locust.Dal.Interfaces.pdb
+C:\Users\bzap\source\repos\Arbalest.Shoot\Locust.Dal.Interfaces\obj\Debug\Locust.Dal.Interfaces.csprojAssemblyReference.cache
+C:\Users\bzap\source\repos\Arbalest.Shoot\Locust.Dal.Interfaces\obj\Debug\Locust.Dal.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\bzap\source\repos\Arbalest.Shoot\Locust.Dal.Interfaces\obj\Debug\Locust.Dal.Interfaces.dll
+C:\Users\bzap\source\repos\Arbalest.Shoot\Locust.Dal.Interfaces\obj\Debug\Locust.Dal.Interfaces.pdb

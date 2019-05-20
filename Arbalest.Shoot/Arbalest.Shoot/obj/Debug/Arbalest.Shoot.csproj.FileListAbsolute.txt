@@ -1,0 +1,5 @@
+C:\Users\bzap\source\repos\Arbalest.Shoot\Arbalest.Shoot\bin\Debug\Arbalest.Shoot.dll
+C:\Users\bzap\source\repos\Arbalest.Shoot\Arbalest.Shoot\bin\Debug\Arbalest.Shoot.pdb
+C:\Users\bzap\source\repos\Arbalest.Shoot\Arbalest.Shoot\obj\Debug\Arbalest.Shoot.csproj.CoreCompileInputs.cache
+C:\Users\bzap\source\repos\Arbalest.Shoot\Arbalest.Shoot\obj\Debug\Arbalest.Shoot.dll
+C:\Users\bzap\source\repos\Arbalest.Shoot\Arbalest.Shoot\obj\Debug\Arbalest.Shoot.pdb
