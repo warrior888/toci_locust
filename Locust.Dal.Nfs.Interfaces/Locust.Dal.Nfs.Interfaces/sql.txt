@@ -1,0 +1,59 @@
+
+drop table Employment;
+drop table Employer;
+drop table EmployeeTeam;
+drop table Team;
+drop table EmployeeSkills;
+drop table Skills;
+drop table Employee;
+
+create table Employee
+(
+	id serial primary key,
+	name text,
+	surname text,
+	email text,
+	login text,
+	password text,
+	isEmailVerified int
+);
+
+create table Skills
+(
+	id serial primary key,
+	name text unique
+);
+
+create table EmployeeSkills
+(
+	id serial primary key,
+	idEmployee int references Employee(id) not null,
+	skillsName text references Skills(name) not null
+);
+
+create table Team
+(
+	id serial primary key,
+	name text unique
+);
+
+create table EmployeeTeam
+(
+	
+);
+
+create table Employer
+(
+	id serial primary key,
+	name text,
+	surname text,
+	email text,
+	login text,
+	password text,
+	isEmailVerified int
+);
+
+create table Employment
+(
+	
+);

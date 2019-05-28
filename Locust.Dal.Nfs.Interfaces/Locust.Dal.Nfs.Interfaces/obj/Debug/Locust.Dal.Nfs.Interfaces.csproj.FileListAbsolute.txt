@@ -1,0 +1,6 @@
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Dal.Nfs.Interfaces\bin\Debug\Locust.Dal.Nfs.Interfaces.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Dal.Nfs.Interfaces\bin\Debug\Locust.Dal.Nfs.Interfaces.pdb
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Dal.Nfs.Interfaces\obj\Debug\Locust.Dal.Nfs.Interfaces.csprojAssemblyReference.cache
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Dal.Nfs.Interfaces\obj\Debug\Locust.Dal.Nfs.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Dal.Nfs.Interfaces\obj\Debug\Locust.Dal.Nfs.Interfaces.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Dal.Nfs.Interfaces\obj\Debug\Locust.Dal.Nfs.Interfaces.pdb

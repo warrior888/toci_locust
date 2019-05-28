@@ -1,0 +1,11 @@
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\bin\Debug\Locust.Bll.Hitman.Interfaces.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\bin\Debug\Locust.Bll.Hitman.Interfaces.pdb
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\bin\Debug\Locust.Dal.Nfs.Interfaces.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\bin\Debug\Locust.Dal.Nfs.Interfaces.pdb
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\obj\Debug\Locust.Bll.Hitman.Interfaces.csprojAssemblyReference.cache
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\obj\Debug\Locust.Bll.Hitman.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\obj\Debug\Locust.Bll.Hitman.Interfaces.csproj.CopyComplete
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\obj\Debug\Locust.Bll.Hitman.Interfaces.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\obj\Debug\Locust.Bll.Hitman.Interfaces.pdb
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\bin\Debug\Locust.Bll.IoC.Hitman.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Interfaces\bin\Debug\Locust.Bll.IoC.Hitman.pdb

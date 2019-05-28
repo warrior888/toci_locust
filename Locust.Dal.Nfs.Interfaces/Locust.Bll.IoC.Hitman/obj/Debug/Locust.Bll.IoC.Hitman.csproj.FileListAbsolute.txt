@@ -1,0 +1,6 @@
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.IoC.Hitman\bin\Debug\Locust.Bll.IoC.Hitman.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.IoC.Hitman\bin\Debug\Locust.Bll.IoC.Hitman.pdb
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.IoC.Hitman\obj\Debug\Locust.Bll.IoC.Hitman.csprojAssemblyReference.cache
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.IoC.Hitman\obj\Debug\Locust.Bll.IoC.Hitman.csproj.CoreCompileInputs.cache
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.IoC.Hitman\obj\Debug\Locust.Bll.IoC.Hitman.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.IoC.Hitman\obj\Debug\Locust.Bll.IoC.Hitman.pdb
