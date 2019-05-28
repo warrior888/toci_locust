@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Locust.Bll.Hitman.Interfaces</RootNamespace>
     <AssemblyName>Locust.Bll.Hitman.Interfaces</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -46,9 +47,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Locust.Bll.IoC.Hitman\Locust.Bll.IoC.Hitman.csproj">
+    <ProjectReference Include="..\Locust.Bll.IoC.Hitman\Locust.IoC.csproj">
       <Project>{547b494a-3726-41b8-986f-1ae54219857d}</Project>
-      <Name>Locust.Bll.IoC.Hitman</Name>
+      <Name>Locust.IoC</Name>
     </ProjectReference>
     <ProjectReference Include="..\Locust.Dal.Nfs.Interfaces\Locust.Dal.Nfs.Interfaces.csproj">
       <Project>{71b1e27f-bdae-4bc9-bbe1-b2211bc22ad4}</Project>
