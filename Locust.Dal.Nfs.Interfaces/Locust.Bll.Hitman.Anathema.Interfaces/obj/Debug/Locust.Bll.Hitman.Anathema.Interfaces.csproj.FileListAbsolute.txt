@@ -1,0 +1,6 @@
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Anathema.Interfaces\bin\Debug\Locust.Bll.Hitman.Anathema.Interfaces.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Anathema.Interfaces\bin\Debug\Locust.Bll.Hitman.Anathema.Interfaces.pdb
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Anathema.Interfaces\obj\Debug\Locust.Bll.Hitman.Anathema.Interfaces.csprojAssemblyReference.cache
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Anathema.Interfaces\obj\Debug\Locust.Bll.Hitman.Anathema.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Anathema.Interfaces\obj\Debug\Locust.Bll.Hitman.Anathema.Interfaces.dll
+C:\Users\bzap\source\repos\toci_locust\Locust.Dal.Nfs.Interfaces\Locust.Bll.Hitman.Anathema.Interfaces\obj\Debug\Locust.Bll.Hitman.Anathema.Interfaces.pdb
