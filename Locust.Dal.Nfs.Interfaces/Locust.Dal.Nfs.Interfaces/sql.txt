@@ -21,6 +21,7 @@ create table Employee
 create table Skills
 (
 	id serial primary key,
+	id_parent int references Skills(id),
 	name text unique
 );
 
@@ -28,7 +29,10 @@ create table EmployeeSkills
 (
 	id serial primary key,
 	idEmployee int references Employee(id) not null,
+	--employeeSurname text references Employee(surname) not null,
+	--employeename text references Employee(name) not null,
 	skillsName text references Skills(name) not null
+	
 );
 
 create table Team

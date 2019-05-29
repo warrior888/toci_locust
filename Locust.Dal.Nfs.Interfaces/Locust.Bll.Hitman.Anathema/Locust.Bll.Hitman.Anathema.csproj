@@ -57,7 +57,7 @@
       <Project>{5b6d2f70-3f75-4e2e-ad38-319d5a6763f9}</Project>
       <Name>Locust.Bll.Hitman</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Locust.Bll.IoC.Hitman\Locust.Bll.IoC.Hitman.csproj">
+    <ProjectReference Include="..\Locust.Bll.IoC.Hitman\Locust.IoC.csproj">
       <Project>{547b494a-3726-41b8-986f-1ae54219857d}</Project>
       <Name>Locust.Bll.IoC.Hitman</Name>
     </ProjectReference>
